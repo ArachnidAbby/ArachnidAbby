@@ -18,3 +18,10 @@ project you may way.
 It was really a quick project I made while I was bored, but it has documentation
 in the readme.md
 
+### Nexonauts (developer)
+
+Nexonauts in a space exploration game currently in development.
+
+I am a developer working on this indie title and try to bring it to life with the help of the Lead Developer Nikk F.
+
+You can wishlist the game on steam if you are interested!
