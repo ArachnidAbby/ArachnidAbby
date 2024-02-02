@@ -1,6 +1,8 @@
+*Previously called "Spidertyler2005"*
+
 # About me
 
-I have been programming in python for over 7 years just working on hobby projects.
+I have been programming in python for over 8 years just working on hobby projects.
 
 
 # Projects
