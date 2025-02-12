@@ -2,7 +2,9 @@
 
 # About me
 
-I have been programming in python for over 8 years just working on hobby projects.
+I have been programming in python for over 9 years just working on hobby projects.
+
+Recently I've started a position at Trevity LLC as a fullstack developer on an R&D team.
 
 
 # Projects
