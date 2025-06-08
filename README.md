@@ -29,3 +29,34 @@ Nexonauts in a space exploration game currently in development.
 I am a developer working on this indie title and try to bring it to life with the help of the Lead Developer Nikk F.
 
 You can wishlist the game on steam if you are interested!
+
+### Effects In Python
+
+A very simple effects system made in python. Surprisingly usable despite just being a proof of concept.
+
+```python
+@EffectFunction
+def yield_value(value):
+    pass
+
+
+YieldEffect = Effect(yield_value)
+
+
+@UsingEffect(YieldEffect)
+def traverse(data: list):
+    match data:
+        case [x, *data]:
+            yield_value(x)
+            traverse(data)
+        case []:
+            return
+
+
+@ImplementEffect(YieldEffect, yield_value=lambda x: print(f"yielded {x}"))
+def main():
+    traverse([1, 2, 3])
+
+
+main()
+```
