@@ -22,7 +22,7 @@ project you may way.
 It was really a quick project I made while I was bored, but it has documentation
 in the readme.md
 
-### Nexonauts (developer)
+### Nexonauts (developer) (Canceled)
 
 Nexonauts in a space exploration game currently in development.
 
