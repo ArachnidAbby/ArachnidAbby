@@ -1,10 +1,11 @@
-*Previously called "Spidertyler2005"*
-
 # About me
 
 I have been programming in python for over 9 years just working on hobby projects.
 
 Recently I've started a position at Trevity LLC as a fullstack developer on an R&D team.
+
+# Donations
+Feel free to donate to my [Patreon](https://www.patreon.com/c/ArachnidAbby). This will allow me to spend more of my time on these projects. If I get enough funding, I might even make this my job.... altho I doubt that would happen.
 
 
 # Projects
