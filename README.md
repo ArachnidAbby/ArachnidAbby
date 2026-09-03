@@ -23,7 +23,7 @@ A configuration validation/writer library that is extremely ergonomic and python
 ## Summersweet-software/CompilerToolkit
 A library to help create compilers in python. It is an opinionated library that helps you enforce certain coding practices throughout your entire codebase. It is also well-typed which is something that isn't always true when writing a compiler by hand. This lets you actually focus on the static-type checking errors instead of ignoring them because you have a few hundred (or thousand)
 
-## Summersweet-software/OpenPluginApi
+## Summersweet-software/OpenPluginLoader
 A library to help you load and package plugins. It creates a standard way to load plugins and lays out a standard format for plugins. This library does plugin sorting, loading, packaging, and internal dependency management (allowing plugins to have their own dependencies or version of dependencies). It also does minimal isolation of plugins being loaded from the general project.
 
 This was built for a product being privately worked on inside of Summersweet-software, but the component seems generally useful to anyone interested in plugin systems. It made sense to build a general purpose component.
