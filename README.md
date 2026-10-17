@@ -10,7 +10,11 @@ The advent of browser based software/services has only made this worse. You can 
 We need let people own their data again. We need to let people OWN their software again. We need to let people MODIFY their own software copies.
 
 # Job
-I work at Trevity LLC as a fullstack developer on an R&D team.
+Currently unemployed. I did work for Trevity LLC for 2 years as a fullstack developer. I am- allegedly- still available to be on 1099 contract for features if they need me.
+
+*sigh* layoffs.
+
+Not their fault though, the economy is tough and they are a small company. Hope they make it through this- they were awesome to work for.
 
 # Donations
 Feel free to donate to my [Patreon](https://www.patreon.com/c/ArachnidAbby). This will allow me to spend more of my time on these projects. If I get enough funding, I might even make this my job.... altho I doubt that would happen.
